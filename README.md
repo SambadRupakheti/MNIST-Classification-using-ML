@@ -66,12 +66,5 @@ The **PDF report** contains:
 - The classifier used is **Random Forest with 100 estimators**.
 - The model achieved **97.2% validation accuracy** and **96.89% test accuracy**.
 
----
-
-References
-- **MNIST Dataset**: [MNIST Wikipedia](https://en.wikipedia.org/wiki/MNIST_database)
-- **Scikit-learn Documentation**: [scikit-learn.org](https://scikit-learn.org)
-- **Random Forest Algorithm**: Breiman, L. (2001). "Random Forests". Machine Learning.
-
 This README provides full instructions for running and understanding the MNIST classification project.
 
