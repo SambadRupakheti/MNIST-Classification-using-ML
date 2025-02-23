@@ -1,4 +1,3 @@
-# MNIST-Classification-using-ML
 # README - MNIST Handwritten Digit Classification Project
 
 ## Project Overview
